@@ -1,0 +1,14 @@
+#photo_center{
+    display: flex;
+    justify-content: space-between;
+    transition: filter .3s ease-in-out;
+  }
+  #son{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(63, 57, 57);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+  }
